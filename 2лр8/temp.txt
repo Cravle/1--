@@ -1,0 +1,6 @@
+Balandin C 123,7 2
+Shishkof F 79,98 3
+Kravchenko D 134,8 1
+Ivanchenko C 78,3 4
+Valentiy F 67,9 5
+Tkach D 38,7 6
